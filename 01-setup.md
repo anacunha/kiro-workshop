@@ -10,7 +10,12 @@
 ### Login y Código de Acceso
 * Asegúrate de estar ejecutando la versión más reciente de Kiro
 * Elige tu método de inicio de sesión (GitHub o Google)
+
+<img width="2202" height="1688" alt="Kiro Login" src="https://github.com/user-attachments/assets/cfecbf20-8484-4483-8da9-324128fca9e0" />
+
 * Ingresa tu código de acceso proporcionado durante el taller
+
+<img width="2202" height="1688" alt="Kiro Access Code" src="https://github.com/user-attachments/assets/d9d0fa9b-78d2-41a4-baed-e082a92413cd" />
 
 ### Configuración
 Una vez que hayas iniciado sesión, puedes elegir importar tu configuración y extensiones de VS Code. Si estás usando otro editor, puedes omitir este paso. Selecciona tu tema preferido de las opciones disponibles, luego permite que Kiro configure la integración de shell, habilitando al agente para ejecutar comandos en tu nombre.
